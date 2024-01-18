@@ -6,7 +6,7 @@ nav_order: 3
 
 ## Organizers
 
-* [Anthony Bagnall](https://www.uea.ac.uk/computing/people/profile/anthony-bagnall): University of East Anglia, England
+* [Anthony Bagnall](https://www.uea.ac.uk/computing/people/profile/anthony-bagnall): University of Southampton, England
 * [Thomas Guyet](http://people.irisa.fr/Thomas.Guyet/): Inria, France
 * [Georgiana Ifrim](https://people.ucd.ie/georgiana.ifrim): University College Dublin, Ireland
 * [Vincent Lemaire](http://vincentlemaire-labs.fr/): Orange Labs, France
@@ -30,7 +30,7 @@ The AALTD chairs thanks the program committee members who contribute to the qual
 * Paul Honeine, LITIS lab, Université de Rouen, France
 * Thach Le Nguyen, University College Dublin
 * Brian Mac Namee, University College Dublin
-* Matthew Middlehurst, University of East Anglia
+* Matthew Middlehurst, University of Southampton
 * Thu Trang Nguyen, University College Dublin
 * Charlotte Pelletier, Univ. Bretagne Sud/IRISA
 * Pavel Senin, Los Alamos National Laboratory
