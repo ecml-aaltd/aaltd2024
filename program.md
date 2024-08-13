@@ -16,7 +16,7 @@ The workshop takes place on Friday 13th of September.
 # Oral session 1 (10:30-12:30): Classification, Segmentation and Imputation (*chair: TBD*)
 **(15’ presentation per paper + 5’ questions)**
 
-* [Highly Scalable Time Series Classification for Very Large Datasets](https://ecml-aaltd.github.io/aaltd2024/articles/Dempster_AALTD2024.pdf), Angus Dempster, Chang Wei Tan, Lynn Miller, Navid Mohammadi Foumani, Daniel F. Schmidt, and Geoffrey I. Webb
+* [Highly Scalable Time Series Classification for Very Large Datasets](/articles/Dempster_AALTD2024.pdf), Angus Dempster, Chang Wei Tan, Lynn Miller, Navid Mohammadi Foumani, Daniel F. Schmidt, and Geoffrey I. Webb
 * [Reservoir Memory Networks: time-series classification with untrained RNNs](https://ecml-aaltd.github.io/aaltd2024/articles/Gallicchio_AALTD2024.pdf), Claudio Gallicchio and Andrea Ceni
 * [Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP](https://ecml-aaltd.github.io/aaltd2024/articles/Ermshaus_AALTD2024.pdf), Arik Ermshaus, Patrick Schäfer, Ulf Leser
 * [Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree](https://ecml-aaltd.github.io/aaltd2024/articles/Notarianni_AALTD2024.pdf), Michelangelo Olmo Nogara Notarianni, Filippo Leveni, Diego Stucchi, Luca Frittoli and Giacomo Boracchi
