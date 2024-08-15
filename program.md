@@ -17,7 +17,7 @@ The workshop takes place on Friday 13th of September.
 **(15’ presentation per paper + 5’ questions)**
 
 
-* [Highly Scalable Time Series Classification for Very Large Datasets](<https://github.com/ecml-aaltd/aaltd2024/blob/main/articles/Dempster_AALTD24.pdf>), Angus Dempster, Chang Wei Tan, Lynn Miller, Navid Mohammadi Foumani, Daniel F. Schmidt, and Geoffrey I. Webb
+* [Highly Scalable Time Series Classification for Very Large Datasets](<articles/Dempster_AALTD24.pdf>), Angus Dempster, Chang Wei Tan, Lynn Miller, Navid Mohammadi Foumani, Daniel F. Schmidt, and Geoffrey I. Webb
 * [Reservoir Memory Networks: time-series classification with untrained RNNs](https://github.com/ecml-aaltd/aaltd2024/blob/main/articles/Gallicchio_AALTD24.pdf), Claudio Gallicchio and Andrea Ceni
 * [Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP](https://github.com/ecml-aaltd/aaltd2024/blob/main/articles/Ermshaus_AALTD24.pdf), Arik Ermshaus, Patrick Schäfer, Ulf Leser
 * [Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree](https://github.com/ecml-aaltd/aaltd2024/blob/main/articles/Notarianni_AALTD24.pdf), Michelangelo Olmo Nogara Notarianni, Filippo Leveni, Diego Stucchi, Luca Frittoli and Giacomo Boracchi
