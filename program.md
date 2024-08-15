@@ -21,7 +21,7 @@ The workshop takes place on Friday 13th of September.
 * [Reservoir Memory Networks: time-series classification with untrained RNNs](<articles/Gallicchio_AALTD24.pdf>), Claudio Gallicchio and Andrea Ceni
 * [Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP](<articles/Ermshaus_AALTD24.pdf>), Arik Ermshaus, Patrick Schäfer, Ulf Leser
 * [Change Detection in Multivariate data streams: Online Analysis with Kernel-QuantTree](<articles/Notarianni_AALTD24.pdf>), Michelangelo Olmo Nogara Notarianni, Filippo Leveni, Diego Stucchi, Luca Frittoli and Giacomo Boracchi
-* [Comparing the Performance of Recurrent Neural Network and Some Well-Known Statistical Methods in the Case of Missing Multivariate Time Series Data](<articles/Zahmatkesh_AALTD2024.pdf>), Samira Zahmatkesh, Philipp Zech
+* [Comparing the Performance of Recurrent Neural Network and Some Well-Known Statistical Methods in the Case of Missing Multivariate Time Series Data](<articles/Zahmatkesh_AALTD24.pdf>), Samira Zahmatkesh, Philipp Zech
 
 ## Lunch break (1.5h)
 
