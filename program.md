@@ -36,7 +36,7 @@ The workshop takes place on Friday 13th of September.
 ## Coffee break (30mins)
 
 # Poster session (4:00-5:30)
-** all papers are invited to prepare a short presentation + poster)**
+**(all papers are invited to prepare a short presentation + poster)**
 
 * Highly Scalable Time Series Classification for Very Large Datasets, Angus Dempster, Chang Wei Tan, Lynn Miller, Navid Mohammadi Foumani, Daniel F. Schmidt, and Geoffrey I. Webb
 * Reservoir Memory Networks: time-series classification with untrained RNNs, Claudio Gallicchio and Andrea Ceni
