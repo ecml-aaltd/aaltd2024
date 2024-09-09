@@ -4,7 +4,7 @@ title: Program
 nav_order: 3
 ---
 
-The workshop takes place on Friday 13th of September.
+The workshop takes place on Friday 13th of September, in room Alpha (large room in the main conference lobby).
 
 # Invited talk session (chair: Tony Bagnall)
 
