@@ -13,7 +13,7 @@ The workshop takes place on Friday 13th of September, in room Alpha (large room 
 
 ## Coffee break (30mins)
 
-# Oral session 1 (10:30-12:30): Classification, Segmentation and Imputation (*chair: TBD*)
+# Oral session 1 (10:30-12:30): Classification, Segmentation and Imputation (chair: Georgiana Ifrim)
 **(15’ presentation per paper + 5’ questions)**
 
 
@@ -25,7 +25,7 @@ The workshop takes place on Friday 13th of September, in room Alpha (large room 
 
 ## Lunch break (1.5h)
 
-# Oral session 2 (2:00-3:30): Applications (*chair: TBD*)
+# Oral session 2 (2:00-3:30): Applications (chair: Patrick Schäfer)
 **(15’ presentation per paper + 5’ questions)**
 
 * [Accurate and Efficient Real-World Fall Detection Using Time Series Techniques](<articles/Aderinola_AALTD24.pdf>), Timilehin B. Aderinola, Luca Palmerini, Ilaria D’Ascanio, Lorenzo Chiari, Jochen Klenk, Clemens Becker, Brian Caulfield, and Georgiana Ifrim
