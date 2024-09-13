@@ -9,7 +9,7 @@ The workshop takes place on Friday 13th of September, in room Alpha (large room 
 # Invited talk session (chair: Tony Bagnall)
 
 - 9:30: Introduction
-- 9:40-10:40: Invited Talk by **Paul Boniol**, **"Anomaly detection in time series"** [Abstract](<invitedtalk.html>)
+- 9:40-10:40: Invited Talk by **Paul Boniol**, [Anomaly detection in time series](<PaulBoniol-keynote-aaltd24.pdf>)
 
 ## Coffee break (40mins)
 
